@@ -7,7 +7,7 @@ We build projects, compete in international challenges, and share knowledge open
 
 ## 🔥 Ongoing Competitions
 - **[FlexTreck (AIcrowd)](https://www.aicrowd.com/)**  
-  Currently working on computer vision and time-series analysis tasks.  
+  Currently working on data science and time-series analysis tasks.  
 
 ---
 
